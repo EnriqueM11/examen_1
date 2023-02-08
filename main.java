@@ -59,7 +59,7 @@ public class main {
 	        	   String limite = numero;
 	        	   int lim = Integer.parseInt(limite);
 	        	   examen ex_4 = new examen(lim);
-	        	   System.out.println("La palabra es: " + ex_4.fizzBuzz(lim));
+	        	   System.out.println(ex_4.fizzBuzz(lim));
 	        	   System.out.println("");
 	        	   break;
 			case 5:
